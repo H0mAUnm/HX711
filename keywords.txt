@@ -1,0 +1,13 @@
+HX711	KEYWORD1
+begin	KEYWORD2
+read	KEYWORD2
+read_LPF	KEYWORD2
+read_average	KEYWORD2
+get_in_units	KEYWORD2
+set_offset	KEYWORD2
+get_offset	KEYWORD2
+tare	KEYWORD2
+set_scale	KEYWORD2
+get_scale	KEYWORD2
+value_LPF	LITERAL1
+value_Raw	LITERAL1
